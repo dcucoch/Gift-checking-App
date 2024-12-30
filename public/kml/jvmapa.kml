@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Programa de Juguetes 2024.</name>
+    <description>Georeferencia de la UV del territorio subdivido en JV.</description>
+    <Style id="poly-673AB7-1200-77-normal">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-673AB7-1200-77-highlight">
+      <LineStyle>
+        <color>ffb73a67</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db73a67</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-673AB7-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-673AB7-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-673AB7-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-7CB342-1200-77-normal">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-7CB342-1200-77-highlight">
+      <LineStyle>
+        <color>ff42b37c</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d42b37c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-7CB342-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-7CB342-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-7CB342-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-C2185B-1200-77-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5b18c2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-C2185B-1200-77-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5b18c2</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-C2185B-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-C2185B-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-C2185B-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFD600-1200-77-normal">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFD600-1200-77-highlight">
+      <LineStyle>
+        <color>ff00d6ff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d00d6ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFD600-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFD600-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFD600-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>TERRITORIO 1</name>
+      <Placemark>
+        <name>T1 | JV N°4-B | Villa Nuevo Horizonte.</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7405771,-33.4420388,0
+                -70.7405516,-33.4433559,0
+                -70.7405798,-33.4446842,0
+                -70.7393138,-33.4446573,0
+                -70.7393969,-33.441938,0
+                -70.7399387,-33.4419861,0
+                -70.7405771,-33.4420388,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°24 | Villa Maria Luisa Bombal</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7347532,-33.4391835,0
+                -70.7362064,-33.4391672,0
+                -70.7362067,-33.4399072,0
+                -70.7362392,-33.4403798,0
+                -70.7362331,-33.4406909,0
+                -70.7364752,-33.441744,0
+                -70.7346816,-33.4417097,0
+                -70.7347532,-33.4391835,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 |  JV N°5 | Villa Maria Luisa Bombal</name>
+        <description><![CDATA[Descripción: MARIANELA DEL CARMEN ROJAS CALDERON<br>nombre: LAGO ONTARIO N°8107]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>MARIANELA DEL CARMEN ROJAS CALDERON</value>
+          </Data>
+          <Data name="nombre">
+            <value>LAGO ONTARIO N°8107</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7409116,-33.4364091,0
+                -70.7407238,-33.439104,0
+                -70.7406406,-33.4404603,0
+                -70.7405776,-33.4411564,0
+                -70.7405709,-33.4418055,0
+                -70.7383776,-33.4418361,0
+                -70.7364752,-33.4417451,0
+                -70.7362331,-33.440692,0
+                -70.7362392,-33.4403798,0
+                -70.7377171,-33.4403664,0
+                -70.7377144,-33.4363957,0
+                -70.7409116,-33.4364091,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°5-B | Villa Maria Luisa Bombal</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7377144,-33.4363946,0
+                -70.7377265,-33.4384001,0
+                -70.7377171,-33.4403653,0
+                -70.7362392,-33.4403787,0
+                -70.7362067,-33.4399072,0
+                -70.7362064,-33.4391672,0
+                -70.7347532,-33.4391835,0
+                -70.7347532,-33.436399,0
+                -70.7362284,-33.4364169,0
+                -70.7377144,-33.4363946,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°6 | Jardín Lo Prado</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7347532,-33.436399,0
+                -70.7347556,-33.4380724,0
+                -70.7347491,-33.438864,0
+                -70.7347458,-33.4392419,0
+                -70.7347496,-33.4394823,0
+                -70.7347453,-33.4396467,0
+                -70.7341793,-33.4395929,0
+                -70.7330561,-33.440219,0
+                -70.732688,-33.4398033,0
+                -70.7322508,-33.4395191,0
+                -70.7318726,-33.4393792,0
+                -70.7314541,-33.4393177,0
+                -70.73073,-33.4392919,0
+                -70.7301184,-33.4392773,0
+                -70.7294425,-33.4392628,0
+                -70.7288309,-33.4392505,0
+                -70.7285627,-33.4392631,0
+                -70.728273,-33.4393071,0
+                -70.7264545,-33.4396837,0
+                -70.7256606,-33.439837,0
+                -70.7243491,-33.4401116,0
+                -70.7236569,-33.4402903,0
+                -70.7229567,-33.4404108,0
+                -70.7228014,-33.4388723,0
+                -70.7236275,-33.4386999,0
+                -70.7242981,-33.4377173,0
+                -70.7254434,-33.4374554,0
+                -70.7266208,-33.4372652,0
+                -70.7288176,-33.436371,0
+                -70.730506,-33.4362854,0
+                -70.7319289,-33.4363218,0
+                -70.733341,-33.4363626,0
+                -70.7340686,-33.4363786,0
+                -70.7347532,-33.436399,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°7 | Jardín Lo Prado</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7344616,-33.4417052,0
+                -70.7345475,-33.4445342,0
+                -70.7266833,-33.4444469,0
+                -70.7266705,-33.4439198,0
+                -70.7266685,-33.4433748,0
+                -70.7266779,-33.4422938,0
+                -70.7266776,-33.4412295,0
+                -70.7266152,-33.4405883,0
+                -70.7265673,-33.440266,0
+                -70.7264714,-33.4396797,0
+                -70.7274523,-33.4394754,0
+                -70.728273,-33.4393071,0
+                -70.7285627,-33.4392631,0
+                -70.7288309,-33.4392505,0
+                -70.7294425,-33.4392628,0
+                -70.7305422,-33.4392835,0
+                -70.7314541,-33.4393177,0
+                -70.7318726,-33.4393792,0
+                -70.7322508,-33.4395191,0
+                -70.732688,-33.4398033,0
+                -70.7330561,-33.440219,0
+                -70.7335256,-33.4409733,0
+                -70.7341291,-33.4409621,0
+                -70.7347044,-33.4409588,0
+                -70.7346936,-33.4413762,0
+                -70.7346816,-33.4417097,0
+                -70.7344616,-33.4417052,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 |  JV N°4 | Villa Los Maitenes</name>
+        <description><![CDATA[Descripción: <br>nombre: T1 JV N°4 Villa Los Maitenes]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value>T1 JV N°4 Villa Los Maitenes</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7364752,-33.441744,0
+                -70.7364411,-33.4445655,0
+                -70.7345475,-33.4445342,0
+                -70.7344616,-33.4417052,0
+                -70.7364752,-33.441744,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°4-C | Villa Unidas</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7383776,-33.441835,0
+                -70.7384957,-33.4446237,0
+                -70.7364411,-33.4445655,0
+                -70.7364752,-33.441744,0
+                -70.7383776,-33.441835,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°4-D | Villa Prominco</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7405709,-33.4418055,0
+                -70.7405771,-33.4420388,0
+                -70.7393969,-33.441938,0
+                -70.7393111,-33.4446595,0
+                -70.7384957,-33.4446237,0
+                -70.7383776,-33.441835,0
+                -70.7405709,-33.4418055,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T1 | JV N°7-B | Jardín Lo Prado</name>
+        <description><![CDATA[Descripción: <br>nombre: ]]></description>
+        <styleUrl>#poly-673AB7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7264714,-33.4396797,0
+                -70.7265713,-33.4403041,0
+                -70.7266152,-33.4405883,0
+                -70.7266551,-33.4409397,0
+                -70.7266776,-33.4412295,0
+                -70.7266786,-33.4415127,0
+                -70.7266779,-33.4422938,0
+                -70.7266685,-33.4433748,0
+                -70.7266833,-33.4444469,0
+                -70.7233894,-33.4442566,0
+                -70.7233527,-33.4442461,0
+                -70.723273,-33.4438238,0
+                -70.7232638,-33.4433461,0
+                -70.7231811,-33.442346,0
+                -70.7230528,-33.4412408,0
+                -70.7229914,-33.4406233,0
+                -70.7229567,-33.4404108,0
+                -70.7236569,-33.4402903,0
+                -70.7243491,-33.4401116,0
+                -70.7250712,-33.439955,0
+                -70.7264714,-33.4396797,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>TERRITORIO 2.</name>
+      <Placemark>
+        <name>T2 | JV 10-C | Población El Blanqueado</name>
+        <description><![CDATA[descripción: Representante Legal: Paulina Escalona<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Paulina Escalona</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7229621,-33.4404444,0
+                -70.7231489,-33.4423013,0
+                -70.7232029,-33.442729,0
+                -70.723273,-33.4438238,0
+                -70.723233,-33.4441709,0
+                -70.7194859,-33.4437278,0
+                -70.71984,-33.4411785,0
+                -70.7214118,-33.4407779,0
+                -70.7229621,-33.4404444,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°21 | Villa Caupolicán. </name>
+        <description><![CDATA[descripción: Representante Legal: Alicia Baeza<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Alicia Baeza</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7070623,-33.4380404,0
+                -70.7087467,-33.4380885,0
+                -70.7087681,-33.4388809,0
+                -70.7087896,-33.4396374,0
+                -70.708854,-33.4406043,0
+                -70.709766,-33.4405819,0
+                -70.7129739,-33.4402372,0
+                -70.713167,-33.4428648,0
+                -70.7123958,-33.442744,0
+                -70.711614,-33.442556,0
+                -70.7101254,-33.4421889,0
+                -70.7073051,-33.4414537,0
+                -70.7071535,-33.4397566,0
+                -70.7071066,-33.4394349,0
+                -70.7070811,-33.4391133,0
+                -70.7070496,-33.4386661,0
+                -70.7070395,-33.4384694,0
+                -70.7070623,-33.4380404,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°10 | Villa Los Lagos</name>
+        <description><![CDATA[descripción: Representante Legal: Marcelo Pozo.<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Marcelo Pozo.</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7229567,-33.4404589,0
+                -70.7213957,-33.4407768,0
+                -70.7198427,-33.4411796,0
+                -70.7195695,-33.4393141,0
+                -70.7195069,-33.4385287,0
+                -70.7185743,-33.4384166,0
+                -70.7184174,-33.4370411,0
+                -70.7199563,-33.4368011,0
+                -70.7215274,-33.4366103,0
+                -70.7219569,-33.4377986,0
+                -70.7224105,-33.4389624,0
+                -70.7229375,-33.4402078,0
+                -70.7229567,-33.4404589,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°11-C | Villa Londres.</name>
+        <description><![CDATA[descripción: Representante Legal: En proceso eleccionario.<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: En proceso eleccionario.</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7158408,-33.437359,0
+                -70.7164883,-33.437275,0
+                -70.7171318,-33.4372269,0
+                -70.7184174,-33.4370411,0
+                -70.7185689,-33.4384308,0
+                -70.7173405,-33.43863,0
+                -70.7160423,-33.4387935,0
+                -70.7158408,-33.437359,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°11-B | Villa Santa Anita.</name>
+        <description><![CDATA[descripción: Representante legal: Tabita Godoy.<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante legal: Tabita Godoy.</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7117929,-33.439414,0
+                -70.7119592,-33.4403406,0
+                -70.7114429,-33.4404011,0
+                -70.7113101,-33.4396692,0
+                -70.7115595,-33.4396311,0
+                -70.7115085,-33.4394297,0
+                -70.7117929,-33.439414,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°19 AL 35 | Villa Santa Anita Poniente.</name>
+        <description><![CDATA[descripción: Representante Legal: Celeste Hora. <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Celeste Hora. </value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7186386,-33.4384356,0
+                -70.7195069,-33.4385287,0
+                -70.7195391,-33.4393245,0
+                -70.7171323,-33.4397335,0
+                -70.7146825,-33.4400887,0
+                -70.7129739,-33.4402372,0
+                -70.7128913,-33.4390224,0
+                -70.7129711,-33.4390198,0
+                -70.7130443,-33.4390307,0
+                -70.7132014,-33.4390459,0
+                -70.7135155,-33.4390716,0
+                -70.7141371,-33.4391141,0
+                -70.7145767,-33.4390746,0
+                -70.7150056,-33.439026,0
+                -70.7151999,-33.4390197,0
+                -70.7153119,-33.4389529,0
+                -70.7154728,-33.4388813,0
+                -70.7156606,-33.4388097,0
+                -70.7164078,-33.4387408,0
+                -70.7172784,-33.438654,0
+                -70.7186386,-33.4384356,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°11 | Villa Santa Anita.</name>
+        <description><![CDATA[descripción: Representante Legal: Eliana Levipil<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Eliana Levipil</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <MultiGeometry>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+                  -70.7129726,-33.4402305,0
+                  -70.7146866,-33.440091,0
+                  -70.7195655,-33.4393141,0
+                  -70.7198494,-33.4411853,0
+                  -70.7194859,-33.4437278,0
+                  -70.7163244,-33.4433422,0
+                  -70.713167,-33.4428648,0
+                  -70.7129726,-33.4402305,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+          <Polygon>
+            <outerBoundaryIs>
+              <LinearRing>
+                <tessellate>1</tessellate>
+                <coordinates>
+                  -70.7129726,-33.4402305,0
+                  -70.7119592,-33.4403406,0
+                  -70.7118023,-33.4394208,0
+                  -70.7115179,-33.4394365,0
+                  -70.7115689,-33.4396379,0
+                  -70.7113195,-33.439676,0
+                  -70.7114429,-33.4404011,0
+                  -70.709766,-33.4405819,0
+                  -70.7088527,-33.4406021,0
+                  -70.7087888,-33.439361,0
+                  -70.7087427,-33.4380885,0
+                  -70.7103483,-33.4381631,0
+                  -70.7105233,-33.4381513,0
+                  -70.7108439,-33.4380976,0
+                  -70.7114876,-33.4379924,0
+                  -70.7127724,-33.4378111,0
+                  -70.7158408,-33.437359,0
+                  -70.7160369,-33.4387666,0
+                  -70.7158025,-33.438787,0
+                  -70.7156606,-33.4388097,0
+                  -70.7155485,-33.4388406,0
+                  -70.7153957,-33.4389145,0
+                  -70.7151999,-33.4390197,0
+                  -70.7150056,-33.439026,0
+                  -70.7148489,-33.4390458,0
+                  -70.7147056,-33.4390432,0
+                  -70.7145034,-33.4390719,0
+                  -70.7141371,-33.4391141,0
+                  -70.7138263,-33.4390996,0
+                  -70.7135155,-33.4390716,0
+                  -70.7132014,-33.4390459,0
+                  -70.7130443,-33.4390307,0
+                  -70.7128913,-33.4390224,0
+                  -70.7129726,-33.4402305,0
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°12 | Villa Lautaro</name>
+        <description><![CDATA[descripción: Representante Legal: Maria Jerez.<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Maria Jerez.</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7121602,-33.4427243,0
+                -70.7144212,-33.4430888,0
+                -70.7186192,-33.4436567,0
+                -70.723233,-33.4441798,0
+                -70.7229613,-33.4450806,0
+                -70.7228046,-33.4455934,0
+                -70.7224303,-33.4455685,0
+                -70.7196247,-33.445394,0
+                -70.7141628,-33.4459365,0
+                -70.7123145,-33.4461482,0
+                -70.7114199,-33.4457748,0
+                -70.7113049,-33.4446102,0
+                -70.7112543,-33.4436247,0
+                -70.7121602,-33.4437158,0
+                -70.7121602,-33.4427243,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°12-B | Villa Lautaro</name>
+        <description><![CDATA[descripción: Representante Legal: Rosa Osorio<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-FFD600-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Rosa Osorio</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7121572,-33.4427131,0
+                -70.7121572,-33.4437046,0
+                -70.711254,-33.4436247,0
+                -70.7114169,-33.4457681,0
+                -70.7093922,-33.4459239,0
+                -70.7083852,-33.4460198,0
+                -70.7073467,-33.4460899,0
+                -70.7073457,-33.4449353,0
+                -70.7073554,-33.4437807,0
+                -70.7073051,-33.4414537,0
+                -70.7121572,-33.4427131,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>TERRITORIO 3.</name>
+      <Placemark>
+        <name>T3 | JV N°13-B | Villa GOLDA MEIR</name>
+        <description><![CDATA[descripción: Representante Legal: Ximena Parraguez.<br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>Representante Legal: Ximena Parraguez.</value>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7224264,-33.4507385,0
+                -70.7223229,-33.4517415,0
+                -70.7209577,-33.4516765,0
+                -70.7198044,-33.4516329,0
+                -70.718887,-33.4514931,0
+                -70.7169558,-33.4511261,0
+                -70.7170631,-33.4504636,0
+                -70.7224264,-33.4507385,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°13 | Población Manuel Rodríguez. </name>
+        <description><![CDATA[descripción: <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7170631,-33.4504636,0
+                -70.7172122,-33.448147,0
+                -70.7177164,-33.4481783,0
+                -70.7179096,-33.4455732,0
+                -70.7185614,-33.4454994,0
+                -70.7196247,-33.445394,0
+                -70.7228019,-33.4455822,0
+                -70.7224264,-33.4507385,0
+                -70.719734,-33.4505966,0
+                -70.7170631,-33.4504636,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°15 | Villa Ecuador</name>
+        <description><![CDATA[descripción: <br>Nombre: presidente Emilio Briones<br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value>presidente Emilio Briones</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7130091,-33.4460319,0
+                -70.7128696,-33.4483168,0
+                -70.7128545,-33.4492653,0
+                -70.7129404,-33.4493862,0
+                -70.7129957,-33.4498274,0
+                -70.7129243,-33.4504246,0
+                -70.7070707,-33.4494313,0
+                -70.7072451,-33.447755,0
+                -70.707347,-33.4460899,0
+                -70.7100668,-33.4458795,0
+                -70.7114145,-33.4457658,0
+                -70.7121512,-33.4460798,0
+                -70.7123118,-33.446137,0
+                -70.7130091,-33.4460319,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°16 | Villa Cañada Norte.</name>
+        <description><![CDATA[descripción: <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7166289,-33.4569433,0
+                -70.7166132,-33.456196,0
+                -70.7167415,-33.4547401,0
+                -70.7168488,-33.4532542,0
+                -70.7169558,-33.4511261,0
+                -70.718887,-33.4514931,0
+                -70.7198044,-33.4516329,0
+                -70.7207219,-33.4516653,0
+                -70.7223229,-33.4517415,0
+                -70.722181,-33.453516,0
+                -70.7221381,-33.4539703,0
+                -70.7220979,-33.4541852,0
+                -70.7220067,-33.4544022,0
+                -70.7217519,-33.455125,0
+                -70.7211725,-33.4556084,0
+                -70.7207648,-33.4558546,0
+                -70.720325,-33.4561006,0
+                -70.7195471,-33.4563782,0
+                -70.7186834,-33.456602,0
+                -70.7176749,-33.4567899,0
+                -70.7166289,-33.4569433,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[T3 | JV N°17 | población Libertador Bernardo O'Higgins.]]></name>
+        <description><![CDATA[descripción: <br>Nombre: Presidente Marco aguilera <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value>Presidente Marco aguilera </value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7137927,-33.4506156,0
+                -70.7153624,-33.4509,0
+                -70.7169558,-33.4511261,0
+                -70.7169136,-33.452244,0
+                -70.7166132,-33.456196,0
+                -70.7166186,-33.4564287,0
+                -70.7158541,-33.456403,0
+                -70.7156717,-33.4563638,0
+                -70.715191,-33.4563259,0
+                -70.7149261,-33.4563101,0
+                -70.7145563,-33.4563594,0
+                -70.7144781,-33.4563578,0
+                -70.7143827,-33.4562965,0
+                -70.7142605,-33.4562442,0
+                -70.7141409,-33.4562641,0
+                -70.7139784,-33.4562213,0
+                -70.7139039,-33.4561909,0
+                -70.7138321,-33.4561941,0
+                -70.7137861,-33.4562184,0
+                -70.7137131,-33.4562995,0
+                -70.7136643,-33.4564456,0
+                -70.713571,-33.4565959,0
+                -70.7135313,-33.4566189,0
+                -70.7134386,-33.4566171,0
+                -70.7133524,-33.4566263,0
+                -70.7131395,-33.4566651,0
+                -70.7130391,-33.4566614,0
+                -70.712981,-33.4566485,0
+                -70.712939,-33.4566468,0
+                -70.7128334,-33.4566029,0
+                -70.7126113,-33.4565473,0
+                -70.7126086,-33.4552919,0
+                -70.7126435,-33.4540186,0
+                -70.7132054,-33.45215,0
+                -70.713497,-33.4513484,0
+                -70.7137927,-33.4506156,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°22 | Villa Coronel Bueras.</name>
+        <description><![CDATA[descripción: <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7126113,-33.4565473,0
+                -70.7128334,-33.4566029,0
+                -70.712939,-33.4566468,0
+                -70.7130391,-33.4566614,0
+                -70.7131395,-33.4566651,0
+                -70.7133524,-33.4566263,0
+                -70.7134386,-33.4566171,0
+                -70.7135313,-33.4566189,0
+                -70.713571,-33.4565959,0
+                -70.7136012,-33.456548,0
+                -70.7136643,-33.4564456,0
+                -70.7137131,-33.4562995,0
+                -70.7137861,-33.4562184,0
+                -70.7138321,-33.4561941,0
+                -70.7139039,-33.4561909,0
+                -70.7139784,-33.4562213,0
+                -70.7141409,-33.4562641,0
+                -70.7142605,-33.4562442,0
+                -70.7143827,-33.4562965,0
+                -70.7144781,-33.4563578,0
+                -70.7145563,-33.4563594,0
+                -70.7149261,-33.4563101,0
+                -70.715234,-33.4563281,0
+                -70.7156717,-33.4563638,0
+                -70.7158541,-33.456403,0
+                -70.7166186,-33.4564287,0
+                -70.7166289,-33.4569433,0
+                -70.7146903,-33.4573077,0
+                -70.7125867,-33.4577254,0
+                -70.7126113,-33.4565473,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°18 | Villa Metropolitana </name>
+        <description><![CDATA[descripción: <br>Nombre: Presidenta Valeria Díaz<br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value>Presidenta Valeria Díaz</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7137927,-33.4506156,0
+                -70.713497,-33.4513484,0
+                -70.7131934,-33.4521828,0
+                -70.7130593,-33.4526505,0
+                -70.7129128,-33.4531283,0
+                -70.7127126,-33.4537695,0
+                -70.7087478,-33.4526134,0
+                -70.710531,-33.450024,0
+                -70.7121511,-33.450293,0
+                -70.7128138,-33.4504099,0
+                -70.7134872,-33.4505,0
+                -70.7137927,-33.4506156,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N°20 | Villa California. </name>
+        <description><![CDATA[descripción: <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7070701,-33.4494313,0
+                -70.710531,-33.450024,0
+                -70.7098364,-33.4510435,0
+                -70.7089674,-33.4522933,0
+                -70.7087478,-33.4526134,0
+                -70.7084785,-33.452846,0
+                -70.7084048,-33.4534273,0
+                -70.7083149,-33.453946,0
+                -70.7060539,-33.4536797,0
+                -70.7063106,-33.4522027,0
+                -70.7067827,-33.4507614,0
+                -70.7070701,-33.4494313,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[T3 | JV N°19 | Parque Residencial Alameda & Villa Cardenal Frings.]]></name>
+        <description><![CDATA[descripción: <br>Nombre: <br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value/>
+          </Data>
+          <Data name="Nombre">
+            <value/>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7127126,-33.4537695,0
+                -70.7126435,-33.4540096,0
+                -70.7126336,-33.4542832,0
+                -70.7125854,-33.4577299,0
+                -70.7124594,-33.4577429,0
+                -70.7119471,-33.4577809,0
+                -70.711392,-33.4577294,0
+                -70.7110405,-33.4576891,0
+                -70.7106449,-33.4576153,0
+                -70.7102573,-33.4575325,0
+                -70.7089484,-33.4572647,0
+                -70.7082939,-33.4571173,0
+                -70.707661,-33.4569386,0
+                -70.7075656,-33.456907,0
+                -70.7074858,-33.456879,0
+                -70.7074233,-33.4570939,0
+                -70.7073961,-33.4573211,0
+                -70.7075302,-33.4576634,0
+                -70.7065666,-33.457429,0
+                -70.7056225,-33.4571688,0
+                -70.7057754,-33.455344,0
+                -70.7060539,-33.4536797,0
+                -70.7083149,-33.453946,0
+                -70.7084063,-33.453451,0
+                -70.7084785,-33.452846,0
+                -70.7087478,-33.4526134,0
+                -70.7127126,-33.4537695,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T3 | JV N° 14 | Villa Manuel Rodriguez.</name>
+        <description><![CDATA[descripción: ALICIA MONICA REYES PAVEZ <br>Nombre: ISLA DECEPCION N°433<br>Descripción: ]]></description>
+        <styleUrl>#poly-7CB342-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="descripción">
+            <value>ALICIA MONICA REYES PAVEZ </value>
+          </Data>
+          <Data name="Nombre">
+            <value>ISLA DECEPCION N°433</value>
+          </Data>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7129243,-33.4504246,0
+                -70.7129984,-33.4498252,0
+                -70.7129761,-33.4496046,0
+                -70.7129431,-33.449384,0
+                -70.7128572,-33.4492631,0
+                -70.7129109,-33.447645,0
+                -70.7130118,-33.4460297,0
+                -70.7152015,-33.4458211,0
+                -70.7179096,-33.4455732,0
+                -70.7177164,-33.4481783,0
+                -70.7172122,-33.448147,0
+                -70.7172024,-33.4484082,0
+                -70.717122,-33.4495719,0
+                -70.7170631,-33.4504636,0
+                -70.7169558,-33.4511261,0
+                -70.7149186,-33.4508246,0
+                -70.7137927,-33.4506156,0
+                -70.7134872,-33.4505,0
+                -70.7129243,-33.4504246,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>TERRITORIO 4.</name>
+      <Placemark>
+        <name>T4 | JV N°3-D | CVS Juan Pablo.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: Representante Legal: CVS]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value>Representante Legal: CVS</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7336568,-33.4445271,0
+                -70.7336622,-33.4452455,0
+                -70.7309796,-33.4452578,0
+                -70.7309882,-33.4451655,0
+                -70.7309914,-33.4450923,0
+                -70.730985,-33.4450235,0
+                -70.7309893,-33.4449547,0
+                -70.7310039,-33.4444956,0
+                -70.7323223,-33.4445092,0
+                -70.7336568,-33.4445271,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°2 | Villa La Africana</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: Representante Legal: Teresa Maldonado]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value>Representante Legal: Teresa Maldonado</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7405798,-33.4446842,0
+                -70.740657,-33.4456104,0
+                -70.7405256,-33.4458946,0
+                -70.7402292,-33.4461084,0
+                -70.739906,-33.4463355,0
+                -70.7396458,-33.4465011,0
+                -70.7395788,-33.4467429,0
+                -70.739526,-33.447264,0
+                -70.7394947,-33.4478768,0
+                -70.7388353,-33.4478078,0
+                -70.7381599,-33.447732,0
+                -70.7376047,-33.4478395,0
+                -70.736977,-33.4479581,0
+                -70.736851,-33.4475754,0
+                -70.7367236,-33.4473068,0
+                -70.7366284,-33.4468257,0
+                -70.7365355,-33.4464743,0
+                -70.7364359,-33.4460951,0
+                -70.7364411,-33.4445655,0
+                -70.7384957,-33.4446237,0
+                -70.7405798,-33.4446842,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°2-E.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: Representante Legal: Rafael Román.]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value>Representante Legal: Rafael Román.</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7394947,-33.4478768,0
+                -70.739438,-33.4483806,0
+                -70.7394188,-33.4488911,0
+                -70.7371283,-33.4487244,0
+                -70.73705,-33.4483172,0
+                -70.736977,-33.4479581,0
+                -70.7381599,-33.447732,0
+                -70.7394947,-33.4478768,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T2 | JV N°2-C | Villa La Reconquista.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: Representante Legal: Jazmín Barón.]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value>Representante Legal: Jazmín Barón.</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7394188,-33.4488933,0
+                -70.7393287,-33.4495742,0
+                -70.7392708,-33.4502372,0
+                -70.7376481,-33.4505483,0
+                -70.7369806,-33.4506869,0
+                -70.7367549,-33.4506677,0
+                -70.7365293,-33.4506217,0
+                -70.7364883,-33.4506135,0
+                -70.7355251,-33.4503592,0
+                -70.7353736,-33.4503201,0
+                -70.7351187,-33.4493129,0
+                -70.7371595,-33.4488766,0
+                -70.7371283,-33.4487267,0
+                -70.7382108,-33.4488068,0
+                -70.7394188,-33.4488933,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°9 | Población Arturo Prat.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7234626,-33.4442604,0
+                -70.7241359,-33.4443008,0
+                -70.7246114,-33.4443276,0
+                -70.7250895,-33.4443545,0
+                -70.7267262,-33.4444447,0
+                -70.7266518,-33.4452966,0
+                -70.7266236,-33.445939,0
+                -70.7266024,-33.4462021,0
+                -70.7266131,-33.4464561,0
+                -70.7267229,-33.4468185,0
+                -70.7268892,-33.4473791,0
+                -70.7270342,-33.4479243,0
+                -70.7271963,-33.4484567,0
+                -70.7273586,-33.4490005,0
+                -70.7277421,-33.4489334,0
+                -70.7280445,-33.4505533,0
+                -70.7268061,-33.4509454,0
+                -70.7262669,-33.4511009,0
+                -70.7257117,-33.4512564,0
+                -70.7252691,-33.4513728,0
+                -70.7247944,-33.4514914,0
+                -70.7239039,-33.4516838,0
+                -70.7233326,-33.451789,0
+                -70.7229195,-33.4517711,0
+                -70.7230268,-33.4507103,0
+                -70.7230643,-33.4497212,0
+                -70.72311,-33.44892,0
+                -70.7231878,-33.4481098,0
+                -70.7232333,-33.4474899,0
+                -70.723295,-33.4468074,0
+                -70.7233862,-33.445384,0
+                -70.7234298,-33.444388,0
+                -70.7233527,-33.4442461,0
+                -70.7233894,-33.4442566,0
+                -70.7234626,-33.4442604,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°23 | Kennedy II</name>
+        <description><![CDATA[Descripción: Representante Legal: Elección. <br>nombre: <br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Representante Legal: Elección. </value>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7287981,-33.4546352,0
+                -70.7286285,-33.4536197,0
+                -70.7284293,-33.4525439,0
+                -70.7280445,-33.4505533,0
+                -70.7287097,-33.4504369,0
+                -70.7287445,-33.4491567,0
+                -70.7310001,-33.4491501,0
+                -70.7310004,-33.4490361,0
+                -70.7312876,-33.4490429,0
+                -70.7313926,-33.4490747,0
+                -70.7315956,-33.4491702,0
+                -70.7318262,-33.4492865,0
+                -70.7320851,-33.4493626,0
+                -70.7323708,-33.4494063,0
+                -70.7332506,-33.4496581,0
+                -70.73321,-33.4498906,0
+                -70.7332012,-33.4501688,0
+                -70.7329695,-33.4501018,0
+                -70.7327268,-33.4500224,0
+                -70.7327214,-33.4504756,0
+                -70.7327162,-33.4509522,0
+                -70.7320683,-33.4509948,0
+                -70.7316913,-33.4510003,0
+                -70.7318283,-33.4514666,0
+                -70.7316727,-33.4514666,0
+                -70.7316749,-33.4519687,0
+                -70.7316691,-33.4525043,0
+                -70.7316821,-33.4529717,0
+                -70.7316871,-33.4534844,0
+                -70.7319232,-33.453438,0
+                -70.7320942,-33.4538957,0
+                -70.7312739,-33.4540817,0
+                -70.7304388,-33.4542587,0
+                -70.7287981,-33.4546352,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°8 | Villa Arturo Prat.</name>
+        <description><![CDATA[Descripción: Representante Legal: Patricia Barria.<br>nombre: <br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>Representante Legal: Patricia Barria.</value>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7307705,-33.4444911,0
+                -70.7310039,-33.4444956,0
+                -70.7309715,-33.4458293,0
+                -70.7309792,-33.4469347,0
+                -70.7310001,-33.4491501,0
+                -70.7287445,-33.4491567,0
+                -70.7287097,-33.4504369,0
+                -70.7280445,-33.4505533,0
+                -70.7277421,-33.4489334,0
+                -70.7273586,-33.4490005,0
+                -70.7270342,-33.4479243,0
+                -70.7269108,-33.447461,0
+                -70.7267821,-33.447,0
+                -70.7266131,-33.4464561,0
+                -70.7266024,-33.4462021,0
+                -70.7266239,-33.4458743,0
+                -70.7266406,-33.445571,0
+                -70.7266628,-33.4452476,0
+                -70.7267262,-33.4444447,0
+                -70.7277182,-33.4444575,0
+                -70.7288044,-33.444471,0
+                -70.7294576,-33.4444799,0
+                -70.7307705,-33.4444911,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°3-C | Villa Los Poetas.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7364411,-33.4445655,0
+                -70.7364359,-33.4460951,0
+                -70.7353399,-33.4460838,0
+                -70.7342331,-33.4461082,0
+                -70.7342593,-33.4445358,0
+                -70.7353214,-33.4445514,0
+                -70.7364411,-33.4445655,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°1-B | Villa Ríos del Norte.</name>
+        <description><![CDATA[Descripción: MANUEL ANTONIO CASTRO SALDAÑA<br>nombre: PASAJE RIO LLUTA N°7305<br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value>MANUEL ANTONIO CASTRO SALDAÑA</value>
+          </Data>
+          <Data name="nombre">
+            <value>PASAJE RIO LLUTA N°7305</value>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7392332,-33.4502529,0
+                -70.7391694,-33.4514406,0
+                -70.7391207,-33.4520054,0
+                -70.7390773,-33.4525613,0
+                -70.7385731,-33.4526821,0
+                -70.737924,-33.4528297,0
+                -70.7378274,-33.4521607,0
+                -70.7378407,-33.4516908,0
+                -70.7375038,-33.4516417,0
+                -70.7369898,-33.4514539,0
+                -70.7363602,-33.4513372,0
+                -70.7364883,-33.4506135,0
+                -70.7365293,-33.4506195,0
+                -70.7367549,-33.4506677,0
+                -70.7369806,-33.4506847,0
+                -70.7373601,-33.4506074,0
+                -70.737737,-33.4505324,0
+                -70.7383674,-33.4504027,0
+                -70.7392332,-33.4502529,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°3 | Villa Juan Pablo Segundo.</name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: Representante Legal: Juana Paredes.]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value>Representante Legal: Juana Paredes.</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7364359,-33.4460951,0
+                -70.7365328,-33.4464709,0
+                -70.7366284,-33.4468257,0
+                -70.7367209,-33.4473034,0
+                -70.7368483,-33.447572,0
+                -70.736977,-33.4479581,0
+                -70.7370473,-33.4483172,0
+                -70.7371023,-33.4485696,0
+                -70.7371568,-33.4488766,0
+                -70.7366607,-33.4489876,0
+                -70.736123,-33.4491031,0
+                -70.7351161,-33.4493073,0
+                -70.7353736,-33.4503201,0
+                -70.7347206,-33.4501453,0
+                -70.73451,-33.4500644,0
+                -70.7342626,-33.4499934,0
+                -70.7332479,-33.4496547,0
+                -70.7329104,-33.4495622,0
+                -70.7325809,-33.4494652,0
+                -70.7323708,-33.4494063,0
+                -70.7320851,-33.4493626,0
+                -70.7318262,-33.4492865,0
+                -70.7317315,-33.4492382,0
+                -70.7313926,-33.4490747,0
+                -70.7312876,-33.4490429,0
+                -70.7309977,-33.4490327,0
+                -70.7309796,-33.4452578,0
+                -70.7313799,-33.4452561,0
+                -70.7315848,-33.4452547,0
+                -70.7316899,-33.445254,0
+                -70.7317869,-33.4452533,0
+                -70.7325943,-33.4452511,0
+                -70.7334056,-33.4452455,0
+                -70.7342519,-33.4452511,0
+                -70.7342331,-33.4461082,0
+                -70.7353399,-33.4460838,0
+                -70.7364359,-33.4460951,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>T4 | JV N°1 | Villa Kennedy. </name>
+        <description><![CDATA[Descripción: <br>nombre: <br>descripción: ]]></description>
+        <styleUrl>#poly-C2185B-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="Descripción">
+            <value/>
+          </Data>
+          <Data name="nombre">
+            <value/>
+          </Data>
+          <Data name="descripción">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -70.7332506,-33.4496581,0
+                -70.7340044,-33.4499123,0
+                -70.7343558,-33.4500226,0
+                -70.73451,-33.4500644,0
+                -70.7347233,-33.4501486,0
+                -70.7364883,-33.4506135,0
+                -70.7364508,-33.4508966,0
+                -70.7363683,-33.4513417,0
+                -70.7369952,-33.4514539,0
+                -70.7375092,-33.4516417,0
+                -70.7378461,-33.4516908,0
+                -70.7378328,-33.4521607,0
+                -70.737924,-33.4528297,0
+                -70.7350541,-33.4533762,0
+                -70.7335789,-33.453627,0
+                -70.7320942,-33.4538957,0
+                -70.7319232,-33.453438,0
+                -70.7316871,-33.4534844,0
+                -70.7316821,-33.4529717,0
+                -70.7316691,-33.4526386,0
+                -70.7316727,-33.4514666,0
+                -70.7318283,-33.4514666,0
+                -70.7317619,-33.4512396,0
+                -70.7316913,-33.4510003,0
+                -70.7320683,-33.4509948,0
+                -70.7327162,-33.4509522,0
+                -70.7327268,-33.4500224,0
+                -70.7329695,-33.4501018,0
+                -70.7332012,-33.4501688,0
+                -70.73321,-33.4498906,0
+                -70.7332506,-33.4496581,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
